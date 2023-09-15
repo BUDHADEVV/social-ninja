@@ -1,0 +1,45 @@
+.main {
+    background: black;
+    background-image: radial-gradient(white 1px, transparent 0);
+    background-size: 40px 40px;
+    background-position: -19px -19px;
+    height: 720px;
+  }
+
+
+  .main-2 {
+    background:gray;
+    background-image: radial-gradient(black 1px, transparent 0);
+    background-size: 40px 40px;
+    background-position: -19px -19px;
+    height: 720px;
+  }
+
+
+
+
+.navbar{
+
+    background-color: black;
+}
+
+.logo{
+    margin-left: 60px;
+}
+
+
+
+.title{
+    
+    font-family: 'Anton';
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.img{
+
+    margin-left: 480px;
+    margin-top: 140px;
+    width: 500px;
+    height: 400px;
+}
